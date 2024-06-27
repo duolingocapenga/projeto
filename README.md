@@ -1,6 +1,6 @@
 ### olá! Bem vindo ao meu perfil.
 
-Meu nome é Livia
+Meu nome é Livia Alves
 
 -Estou estudando Alura
 -Estou desenvolvendo na linguagem JavaScript
